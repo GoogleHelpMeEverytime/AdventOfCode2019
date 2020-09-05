@@ -2,8 +2,8 @@
 
 Day | Part 1          | Part 2           | Status
 --- | ---------       | ---------        | ---- 
-1   | [Link here...](https://github.com/GoogleHelpMeEverytime/AdventOfCode2019/tree/master/AdventOfCode2019-Day-1-Part-1)    | [Link here...](https://github.com/GoogleHelpMeEverytime/AdventOfCode2019/tree/master/AdventOfCode2019-Day-1-Part-2)     | Working progress     
-2   | [Link here...](https://github.com/GoogleHelpMeEverytime/AdventOfCode2019/tree/master/AdventOfCode2019-Day-2-Part-1)    | [Link here...](https://github.com/GoogleHelpMeEverytime/AdventOfCode2019/tree/master/AdventOfCode2019-Day-2-Part-2)     | Working progress
+1   | [Link here...](https://github.com/GoogleHelpMeEverytime/AdventOfCode2019/tree/master/AdventOfCode2019-Day-1-Part-1)    | [Link here...](https://github.com/GoogleHelpMeEverytime/AdventOfCode2019/tree/master/AdventOfCode2019-Day-1-Part-2)     | Completed     
+2   | [Link here...](https://github.com/GoogleHelpMeEverytime/AdventOfCode2019/tree/master/AdventOfCode2019-Day-2-Part-1)    | [Link here...](https://github.com/GoogleHelpMeEverytime/AdventOfCode2019/tree/master/AdventOfCode2019-Day-2-Part-2)     | Completed
 3   | Link here...    | Link here...     | Working progress         
 4   | Link here...    | Link here...     | Working progress    
 5   | Link here...    | Link here...     | Working progress     
